@@ -1,3 +1,3 @@
-betterphp
+##betterphp
 
-a more modern personal website
+a more modern personal home page
